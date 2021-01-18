@@ -3,4 +3,7 @@
 ## Some Linux(Debian stretch 10) commands
 
 - To add iwlwifi when dump on debian
-  `sudo apt install firmware-misc-nonfree`
+  ```bash
+  sudo apt-get update
+  sudo apt-get install firmware-iwlwifi
+  ```
