@@ -16,3 +16,5 @@
   sudo apt install haskell-platform
   sudo apt install haskell-stack
   ```
+- Module relative to VsCode
+  `haskell.haskell`
