@@ -8,9 +8,9 @@
   $ sudo apt-get install firmware-iwlwifi
   $ sudo apt reboot
   ```
-<div  style="text-align: center">
+<h1 align="center">
   <img src="https://i2.wp.com/soyprogramador.liz.mx/wp-content/uploads/2017/08/Captura-de-pantalla-de-2017-08-24-19-06-17.png">
-</div>
+</h1>
   
 - Install Haskell on debian 10
   ```bash
